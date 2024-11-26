@@ -1,7 +1,0 @@
-.cimage {
-    width: 200px;  /* Adjust width/height as needed */
-    height: 200px;
-    border-radius: 50%; /* Makes the image circular */
-    object-fit: cover;  /* Ensures the image covers the container */
-  }
-  
